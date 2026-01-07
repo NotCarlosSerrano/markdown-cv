@@ -1,91 +1,112 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Carlos Serrano Vicente CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Carlos Serrano Vicente
+Full Stack Developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:contact@notcarlosserrano.com">contact@notcarlosserrano.com</a>
+| <a href="https://notcarlosserrano.com">notcarlosserrano.com</a>
+| <a href="https://github.com/NotCarlosSerrano">GitHub</a>
 </div>
 
+## Actualmente
 
-## Currently
+Full Stack Developer con más de **6 años de experiencia**, especializado en desarrollo web moderno.  
+Disponible para proyectos y nuevas oportunidades. Trabajo remoto / Barcelona.
 
-Standing on the shoulders of giants
+### Especializado en
 
-### Specialized in
+Desarrollo full stack, aplicaciones web modernas, APIs, arquitectura limpia y soluciones escalables.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Intereses
 
+Código limpio, aprendizaje continuo, resolución de problemas, productos digitales bien diseñados.
 
-### Research interests
+## Experiencia
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Jun. 2019 - Actualidad`
+__SCM Logística__
 
+- Programador de software
+- Desarrollo y mantenimiento de aplicaciones internas
+- Implementación de nuevas funcionalidades y mejora de sistemas existentes
+- Soporte técnico y optimización de procesos
 
-## Education
+`Oct. 2017 - Mar. 2018`
+__PC Quality__ · Sabadell, España
 
-`1654-1660`
-__The King's School, Grantham.__
+- Técnico de hardware
+- Reparación y preparación de ordenadores, portátiles y smartphones
+- Soporte técnico a domicilio
+- Atención directa al cliente
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Proyectos
 
-- Sizar
+__Python Code Redeem Reader__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Aplicación de escritorio con interfaz gráfica para captura de pantalla y OCR
+- Extracción de texto desde imágenes y copiado automático al portapapeles
+- Limpieza de caracteres especiales para facilitar la redención de códigos  
+_Tecnologías_: Python, Tkinter, OpenCV
 
-- Fellow
+__VSCode Bulk Empty Files__
 
+- Extensión para Visual Studio Code
+- Creación masiva de archivos vacíos especificando nombres y extensiones
+- Prevención de sobrescritura de archivos existentes  
+_Tecnologías_: TypeScript, VS Code API
 
+__Supersónicos Anónimos__
 
-## Awards
+- Sitio web para podcast de divulgación aeroespacial
+- Diseño moderno y accesible enfocado a divulgación técnica  
+_Tecnologías_: Vue, Vuetify
 
-`2012`
-President, *Royal Society*, London, UK
+__Mapa de Balizas V16__
 
-Associate, *French Academy of Science*, Paris, France
+- Aplicación web con mapa en tiempo real y actualización periódica
+- Geolocalización, deep linking, Web Share API y dashboard de analíticas
+- Datos oficiales de la DGT  
+_Tecnologías_: Vue 3, Leaflet, Vite
 
+## Habilidades Técnicas
 
+### Lenguajes
+- TypeScript
+- Python
+- C#
 
-## Publications
+### Frontend
+- Vue
+- Astro
+- React
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+### Backend
+- Node.js
+- Express
+- FastAPI
+- PostgreSQL
+- MongoDB
 
-### Journals
+### Herramientas
+- Git / Git Flow
+- Docker
+- VS Code
+- Azure
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## Educación
 
-`1669`
-Lectiones opticæ.
+`Sept. 2018 - Jun. 2020`
+__IES Sabadell__
 
-etc. etc. etc.
+- Técnico Superior en Desarrollo de Aplicaciones Multiplataforma
 
-### Patents
+`Sept. 2016 - Jun. 2018`
+__IES Sabadell__
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- Técnico en Sistemas Microinformáticos y Redes
 
 <!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+Última actualización: 2026 -->
