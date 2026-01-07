@@ -78,8 +78,12 @@ code {
 }
 
 p code {
-	position: absolute;
-	left: -11%;
+	float: left;
+	margin-left: -28%; /* place date in left margin */
+	width: 22%;
+	margin-right: 3%;
+	text-align: right;
+	white-space: nowrap;
 }
 
 
