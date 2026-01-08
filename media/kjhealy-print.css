@@ -188,6 +188,11 @@ strong {
 	font-weight: bold;
 }
 
+#lang-switcher {
+	display: none !important;
+	visibility: hidden !important;
+}
+
 #ghbutton {
 	display: none;
 	visibility: hidden;
