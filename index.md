@@ -1,6 +1,8 @@
 ---
 layout: cv
 title: Carlos Serrano Vicente CV
+lang: es
+permalink: /
 ---
 # Carlos Serrano Vicente
 Full Stack Developer

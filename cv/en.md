@@ -2,7 +2,7 @@
 layout: cv
 title: Carlos Serrano Vicente CV
 lang: en
-permalink: /cv/en/
+permalink: /en/
 ---
 
 # Carlos Serrano Vicente

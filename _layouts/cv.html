@@ -10,9 +10,9 @@
   <div id="main">
     <div id="content">
       <nav id="lang-switcher" aria-label="Language selector">
-        <a href="{{ '/cv/' | relative_url }}" {% if page.lang == 'es' %}aria-current="page"{% endif %}>Español</a>
+        <a href="{{ '/' | relative_url }}" {% if page.lang == 'es' %}aria-current="page"{% endif %}>Español</a>
         |
-        <a href="{{ '/cv/en/' | relative_url }}" {% if page.lang == 'en' %}aria-current="page"{% endif %}>English</a>
+        <a href="{{ '/en/' | relative_url }}" {% if page.lang == 'en' %}aria-current="page"{% endif %}>English</a>
       </nav>
 
     {{ content }}
