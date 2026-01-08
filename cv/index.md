@@ -53,20 +53,20 @@ __Python Code Redeem Reader__
 - Limpieza de caracteres especiales para facilitar la redención de códigos  
 _Tecnologías_: Python, Tkinter, OpenCV
 
-__VSCode Bulk Empty Files__
+[__VSCode Bulk Empty Files__](https://marketplace.visualstudio.com/items?itemName=CarlosSerrano.bulk-empty-files)
 
 - Extensión para Visual Studio Code
 - Creación masiva de archivos vacíos especificando nombres y extensiones
 - Prevención de sobrescritura de archivos existentes  
 _Tecnologías_: TypeScript, VS Code API
 
-__Supersónicos Anónimos__
+[__Supersónicos Anónimos__](https://supersonicosanonimos.com/)
 
 - Sitio web para podcast de divulgación aeroespacial
 - Diseño moderno y accesible enfocado a divulgación técnica  
 _Tecnologías_: Vue, Vuetify
 
-__Mapa de Balizas V16__
+[__Mapa de Balizas V16__](https://mapabalizav16.es/)
 
 - Aplicación web con mapa en tiempo real y actualización periódica
 - Geolocalización, deep linking, Web Share API y dashboard de analíticas

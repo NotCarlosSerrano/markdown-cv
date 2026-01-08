@@ -62,7 +62,7 @@ __Python Code Redeem Reader__
 
 _Technologies_: Python, Tkinter, OpenCV
 
-__VSCode Bulk Empty Files__
+[__VSCode Bulk Empty Files__](https://marketplace.visualstudio.com/items?itemName=CarlosSerrano.bulk-empty-files)
 
 - Extension for Visual Studio Code
 - Bulk creation of empty files by specifying names and extensions
@@ -70,14 +70,14 @@ __VSCode Bulk Empty Files__
 
 _Technologies_: TypeScript, VS Code API
 
-__Supersónicos Anónimos__
+[__Supersónicos Anónimos__](https://supersonicosanonimos.com/)
 
 - Website for an aerospace outreach podcast
 - Modern and accessible design focused on technical dissemination  
 
 _Technologies_: Vue, Vuetify
 
-__Mapa de Balizas V16__
+[__Mapa de Balizas V16__](https://mapabalizav16.es/)
 
 - Web application with a real-time map and periodic updates
 - Geolocation, deep linking, Web Share API, and analytics dashboard
