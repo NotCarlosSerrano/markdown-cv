@@ -32,8 +32,10 @@ Código limpio, aprendizaje continuo, resolución de problemas, productos digita
 __SCM Logística__
 
 - Desarrollo y mantenimiento de **aplicaciones de escritorio Windows (C#)** para la gestión de almacenes.
+- Soporte y resolución de incidencias sobre la aplicación de escritorio, incluyendo **lógica de negocio y datos en SQL**.
 - Implementación de nuevas pantallas, funcionalidades y proyectos según necesidades de clientes.
 - Desarrollo de sistemas **Pick to Light / Put to Light**, integrando software con dispositivos físicos de almacén.
+- Participación activa en la **implantación del sistema en nuevos clientes**, colaborando en la puesta en marcha, adaptación funcional y soporte inicial.
 - Diseño y desarrollo de **nueva plataforma web**, reemplazando la aplicación desktop:
   - **Frontend:** Vue.js (JavaScript), visualización dinámica de pantallas.  
   - **Backend:** Python, centralización de lógica de negocio y generación dinámica de pantallas.  

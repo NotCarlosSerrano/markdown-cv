@@ -40,8 +40,10 @@ Available for projects and new opportunities. Remote work / Barcelona.
 __SCM Logística__
 
 - Development and maintenance of **Windows desktop applications (C#)** for warehouse management.
+- Application support and troubleshooting for the desktop system, including **SQL-based business logic and data issues**.
 - Implementation of new screens, features, and projects based on client requirements.
 - Development of **Pick to Light / Put to Light** systems, integrating software with physical warehouse devices.
+- Active participation in the **implementation and rollout of the system for new clients**, including setup, functional adaptation, and initial support.
 - Design and development of a **new web platform**, replacing the legacy desktop application:
   - **Frontend:** Vue.js (JavaScript), dynamic screen rendering.
   - **Backend:** Python, centralized business logic and dynamic screen generation.
