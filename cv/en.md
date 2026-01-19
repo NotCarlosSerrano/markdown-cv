@@ -39,10 +39,14 @@ Available for projects and new opportunities. Remote work / Barcelona.
 `Jun. 2019 – Present`  
 __SCM Logística__
 
-- Software Developer
-- Development and maintenance of internal applications
-- Implementation of new features and improvement of existing systems
-- Technical support and process optimization
+- Development and maintenance of **Windows desktop applications (C#)** for warehouse management.
+- Implementation of new screens, features, and projects based on client requirements.
+- Development of **Pick to Light / Put to Light** systems, integrating software with physical warehouse devices.
+- Design and development of a **new web platform**, replacing the legacy desktop application:
+  - **Frontend:** Vue.js (JavaScript), dynamic screen rendering.
+  - **Backend:** Python, centralized business logic and dynamic screen generation.
+  - Architecture focused on scalability, customization, and maintainability.
+- Progressive growth from internship-level responsibilities to **full-stack development and architecture design ownership**
 
 `Oct. 2017 – Mar. 2018`  
 __PC Quality__ · Sabadell, Spain

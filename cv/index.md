@@ -31,10 +31,14 @@ Código limpio, aprendizaje continuo, resolución de problemas, productos digita
 `Jun. 2019 - Actualidad`
 __SCM Logística__
 
-- Programador de software
-- Desarrollo y mantenimiento de aplicaciones internas
-- Implementación de nuevas funcionalidades y mejora de sistemas existentes
-- Soporte técnico y optimización de procesos
+- Desarrollo y mantenimiento de **aplicaciones de escritorio Windows (C#)** para la gestión de almacenes.
+- Implementación de nuevas pantallas, funcionalidades y proyectos según necesidades de clientes.
+- Desarrollo de sistemas **Pick to Light / Put to Light**, integrando software con dispositivos físicos de almacén.
+- Diseño y desarrollo de **nueva plataforma web**, reemplazando la aplicación desktop:
+  - **Frontend:** Vue.js (JavaScript), visualización dinámica de pantallas.  
+  - **Backend:** Python, centralización de lógica de negocio y generación dinámica de pantallas.  
+  - Arquitectura orientada a escalabilidad, personalización y mantenibilidad.
+- Evolución progresiva desde prácticas hasta asumir **responsabilidades de desarrollo full-stack y diseño de arquitectura**.
 
 `Oct. 2017 - Mar. 2018`
 __PC Quality__ · Sabadell, España
