@@ -75,13 +75,6 @@ _Tecnologías_: TypeScript, VS Code API
 - Diseño moderno y accesible enfocado a divulgación técnica  
 _Tecnologías_: Vue, Vuetify
 
-[__Mapa de Balizas V16__](https://mapabalizav16.es/)
-
-- Aplicación web con mapa en tiempo real y actualización periódica
-- Geolocalización, deep linking, Web Share API y dashboard de analíticas
-- Datos oficiales de la DGT  
-_Tecnologías_: Vue 3, Leaflet, Vite
-
 ## Habilidades Técnicas
 
 ### Lenguajes

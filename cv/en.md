@@ -86,14 +86,6 @@ _Technologies_: TypeScript, VS Code API
 
 _Technologies_: Vue, Vuetify
 
-[__Mapa de Balizas V16__](https://mapabalizav16.es/)
-
-- Web application with a real-time map and periodic updates
-- Geolocation, deep linking, Web Share API, and analytics dashboard
-- Official data provided by the DGT  
-
-_Technologies_: Vue 3, Leaflet, Vite
-
 ## Technical Skills
 
 ### Languages
