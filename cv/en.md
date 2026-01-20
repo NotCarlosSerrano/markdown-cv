@@ -40,7 +40,7 @@ Available for projects and new opportunities. Remote work / Barcelona.
 __SCM Logística__
 
 - Development and maintenance of **Windows desktop applications (C#)** for warehouse management.
-- Application support and troubleshooting for the desktop system, including **SQL-based business logic and data issues**.
+- Application support and issue resolution for the desktop system, including **SQL-based business logic and data handling**.
 - Implementation of new screens, features, and projects based on client requirements.
 - Development of **Pick to Light / Put to Light** systems, integrating software with physical warehouse devices.
 - Active participation in the **implementation and rollout of the system for new clients**, including setup, functional adaptation, and initial support.
@@ -48,7 +48,10 @@ __SCM Logística__
   - **Frontend:** Vue.js (JavaScript), dynamic screen rendering.
   - **Backend:** Python, centralized business logic and dynamic screen generation.
   - Architecture focused on scalability, customization, and maintainability.
-- Progressive growth from internship-level responsibilities to **full-stack development and architecture design ownership**
+- Use of **Microsoft Azure** for:
+  - Deployment and maintenance of **web applications and services**.
+  - Basic configuration of environments, resources, and services required for application execution.
+- Progressive growth from internship-level responsibilities to **full-stack development and architecture design ownership**.
 
 `Oct. 2017 – Mar. 2018`  
 __PC Quality__ · Sabadell, Spain
