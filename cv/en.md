@@ -34,6 +34,12 @@ Available for projects and new opportunities. Remote work / Barcelona.
 - Problem solving
 - Well-designed digital products
 
+## Languages
+
+- **Spanish:** Native  
+- **Catalan:** Native  
+- **English:** Advanced (professional and technical proficiency)
+
 ## Experience
 
 `Jun. 2019 – Present`  

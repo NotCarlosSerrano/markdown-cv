@@ -26,6 +26,12 @@ Desarrollo full stack, aplicaciones web modernas, APIs, arquitectura limpia y so
 
 Código limpio, aprendizaje continuo, resolución de problemas, productos digitales bien diseñados.
 
+## Idiomas
+
+- **Castellano:** Nativo  
+- **Catalán:** Nativo  
+- **Inglés:** Alto (lectura, escritura y comunicación técnica)
+
 ## Experiencia
 
 `Jun. 2019 - Actualidad`
